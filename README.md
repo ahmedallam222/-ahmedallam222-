@@ -1,9 +1,9 @@
-##<div id="header" align="center">
+## <div id="header" align="center">
 <h1 align="center">I'm Ahmed Allam</h1>
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </div> 
 <br />
-##<p style="color: peru !important;" dir="auto" align="center"> <a target="_blank" rel="noopener noreferrer"
+## <p style="color: peru !important;" dir="auto" align="center"> <a target="_blank" rel="noopener noreferrer"
         href="https://camo.githubusercontent.com/5f284f909f9221b9b4c42575dd246dbb994ec78ab4fb18be353164ff0d7ca303/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f6c696e65733d57656c636f6d652b746f2b6d792b4769744875622b50726f66696c65"><img
             src="https://camo.githubusercontent.com/5f284f909f9221b9b4c42575dd246dbb994ec78ab4fb18be353164ff0d7ca303/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f6c696e65733d57656c636f6d652b746f2b6d792b4769744875622b50726f66696c65"
             data-canonical-src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub+Profile"

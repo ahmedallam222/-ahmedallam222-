@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ahmed Allam</h1>
-<h3 align="center">A frontend developer from Egypt</h3>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div> <br/>
+<h1 align="center">Hi👋</h1>
+<h3 align="center">I'm A frontEnd developer from Egypt</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on eCommerce template<br><br>🌱 I’m currently learning React,photoshop<br><br>👨‍💻 All of my projects are available at https://ahmedallam222.github.io/Portfolio/<br><br>📝 I regularly write articles on https://www.linkedin.com/in/ahmed-allam-33b216211<br><br>💬 Ask me about JavaScript, Jquery, Sass, Bootstrap<br><br>📫 How to reach me allamahmed464@gmail.com<br><br>Some facts about me. Patient(work under pressure ) , I like to work on a team, get the job done on time, impassible.

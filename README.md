@@ -5,7 +5,7 @@
 🔭 I’m currently working on eCommerce template<br><br>🌱 I’m currently learning React,photoshop<br><br>👨‍💻 All of my projects are available at https://ahmedallam222.github.io/Portfolio/<br><br>📝 I regularly write articles on https://www.linkedin.com/in/ahmed-allam-33b216211<br><br>💬 Ask me about JavaScript, Jquery, Sass, Bootstrap<br><br>📫 How to reach me allamahmed464@gmail.com<br><br>Some facts about me. Patient(work under pressure ) , I like to work on a team, get the job done on time, impassible.
 
 
-## 🌐 Socials:
+## <h1 align="center"> 🌐 Socials:</h1>
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ahmed.allam.37 ) <br/> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-allam-33b216211 ) <br/> [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@allamahmed464) <br/> [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16944927 ) 
 
 # 💻 Tech Stack:

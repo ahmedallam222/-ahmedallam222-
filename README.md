@@ -75,7 +75,6 @@ Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ahmedallam222&icon=0&color=2)](https://visitcount.itsvg.in)
 

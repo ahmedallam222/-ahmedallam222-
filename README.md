@@ -6,11 +6,7 @@
 <h3 dir="auto" align="center"><a id="user-content-a-passionate-flutter-application-developer-from-egypt" class="anchor" aria-hidden="true" href="#a-passionate-flutter-application-developer-from-egypt"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>A Front End developer from Egypt</h3>
 <br />
 
-<p style="color: peru !important;" dir="auto" align="center"> <a target="_blank" rel="noopener noreferrer"
-        href="https://camo.githubusercontent.com/5f284f909f9221b9b4c42575dd246dbb994ec78ab4fb18be353164ff0d7ca303/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f6c696e65733d57656c636f6d652b746f2b6d792b4769744875622b50726f66696c65"><img
-            src="https://camo.githubusercontent.com/5f284f909f9221b9b4c42575dd246dbb994ec78ab4fb18be353164ff0d7ca303/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f6c696e65733d57656c636f6d652b746f2b6d792b4769744875622b50726f66696c65"
-            data-canonical-src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub+Profile"
-            style="max-width: 100%;"></a> </p>
+<p style="color: peru !important;" dir="auto" align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7BD56&width=435&lines=Welcome+To+My+GitHub+profile+" alt="Typing SVG" /></a> </p>
             <div dir="auto" align="center">
         <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" data-target="animated-image.originalLink"><img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" height="100"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">

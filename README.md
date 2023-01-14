@@ -38,7 +38,7 @@
 
 # 💫 About Me:
 🔭 I’m currently working on eCommerce template<br><br>🌱 I’m currently learning React,photoshop<br><br>👨‍💻 All of my
-projects are available at https://ahmedallam222.github.io/Portfolio/<br><br>📝 I regularly write articles on
+projects are available at ahmedallam.me<br><br>📝 I regularly write articles on
 https://www.linkedin.com/in/ahmed-allam-33b216211<br><br>💬 Ask me about JavaScript, Jquery, Sass, Bootstrap<br><br>📫
 How to reach me allamahmed464@gmail.com<br><br>Some facts about me. Patient(work under pressure ) , I like to work on a
 team, get the job done on time, impassible.
